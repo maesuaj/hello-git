@@ -3,6 +3,7 @@
 This is the README file for my git repo tutorial
 This tutorial can be accessed on the https://www.w3school.com
 This tutorial focuses mainly on Git and using GitHub as its remote.
+This line made me committed to branch to GitHub
 
 The overal tuturial is built step by step
 
